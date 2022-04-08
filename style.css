@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+}
+
+#marqueeStyle{
+    background-color: aqua;
+}
+#VID{
+    width: 1000px;
+    height: 800px;
+ align-items: center;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 15px;
+    padding-bottom: 75px;
+}
+#dacosta{
+    text-align: center;
+}
+#AuDit{
+    text-align: center;
+}
+
+
+
